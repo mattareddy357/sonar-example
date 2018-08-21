@@ -38,5 +38,6 @@
           <pluginClass>org.sonarsource.plugins.example.ExamplePlugin</pluginClass>
         </configuration>
       </plugin>
+             </plugins>
  </build>
 </project>
